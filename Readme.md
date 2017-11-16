@@ -1,8 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Евгений Ким](https://up.htmlacademy.ru/javascript/11/user/211297).
-* Наставник: `Ренат Туктаров`.
-  Сcылка на профиль 'https://htmlacademy.ru/profile/id408799'
+* Наставник: [Ренат Туктаров](https://htmlacademy.ru/profile/id408799).
 
 ---
 
