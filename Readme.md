@@ -2,6 +2,7 @@
 
 * Студент: [Евгений Ким](https://up.htmlacademy.ru/javascript/11/user/211297).
 * Наставник: `Ренат Туктаров`.
+  Сcылка на профиль 'https://htmlacademy.ru/profile/id408799'
 
 ---
 
